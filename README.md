@@ -102,6 +102,4 @@ Fornecendo o nome do servidor, usuário e senha criados.
 
 A criação de um banco de dados no Azure foi **simples, intuitiva e eficiente**. A plataforma oferece opções flexíveis de desempenho e segurança, ideais tanto para ambientes de desenvolvimento quanto de produção.
 
-> Esta experiência reforça a praticidade e a escalabilidade do uso de **serviços de banco de dados como PaaS** na nuvem, eliminando preocupações com infraestrutura física e manutenção.
-
 
